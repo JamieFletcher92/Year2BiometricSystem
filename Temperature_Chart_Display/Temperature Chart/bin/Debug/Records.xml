@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records>
+  <Patient>
+    <DateTime>18/03/2013 13:05:45</DateTime>
+    <ID>11033350</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>30.81</Temperature>
+    <Pulse>75.07</Pulse>
+    <GSR>59.5</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>18/03/2013 13:16:35</DateTime>
+    <ID>11033350</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>36</Temperature>
+    <Pulse>72.25</Pulse>
+    <GSR>61.25</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>18/03/2013 14:28:20</DateTime>
+    <ID>11033350</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>33.6</Temperature>
+    <Pulse>73.8</Pulse>
+    <GSR>63.8</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>18/03/2013 14:28:20</DateTime>
+    <ID>99999999</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>33.6</Temperature>
+    <Pulse>73.8</Pulse>
+    <GSR>63.8</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>18/03/2013 16:28:20</DateTime>
+    <ID>11033350</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>33.6</Temperature>
+    <Pulse>73.8</Pulse>
+    <GSR>63.8</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>18/03/2013 16:56:20</DateTime>
+    <ID>99999999</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>33.6</Temperature>
+    <Pulse>73.8</Pulse>
+    <GSR>63.8</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>15/04/2013 11:36:18</DateTime>
+    <ID>11034313</ID>
+    <Forename>Glynn</Forename>
+    <Surname>Windebank</Surname>
+    <Age>20</Age>
+    <Temperature>23.29</Temperature>
+    <Pulse>4.54</Pulse>
+    <GSR>289.86</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>15/04/2013 11:47:46</DateTime>
+    <ID>18121992</ID>
+    <Forename>James</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>23.3</Temperature>
+    <Pulse>4.89</Pulse>
+    <GSR>67</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>15/04/2013 11:56:09</DateTime>
+    <ID>48151623</ID>
+    <Forename>Jay</Forename>
+    <Surname>Wakefield</Surname>
+    <Age>23</Age>
+    <Temperature>23.52</Temperature>
+    <Pulse>20.3</Pulse>
+    <GSR>34.38</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>15/04/2013 16:25:01</DateTime>
+    <ID>11033350</ID>
+    <Forename>Jamie</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>26392.57</Temperature>
+    <Pulse>6.85</Pulse>
+    <GSR>132.42</GSR>
+  </Patient>
+  <Patient>
+    <DateTime>16/12/2013 17:03:57</DateTime>
+    <ID>11033350</ID>
+    <Forename>James</Forename>
+    <Surname>Fletcher</Surname>
+    <Age>20</Age>
+    <Temperature>-147</Temperature>
+    <Pulse>40.25</Pulse>
+    <GSR>371.5</GSR>
+  </Patient>
+</records>

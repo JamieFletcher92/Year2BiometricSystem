@@ -1,0 +1,48 @@
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.exe
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.pdb
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Form1.resources
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Properties.Resources.resources
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.exe
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.pdb
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.exe
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.pdb
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.exe
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.pdb
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Form1.resources
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Properties.Resources.resources
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.FormRecords.resources
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.exe
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.pdb
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.exe
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.pdb
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Form1.resources
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.FormRecords.resources
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Properties.Resources.resources
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.FormRecords.resources
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.exe
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.pdb
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.exe
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.pdb
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.csprojResolveAssemblyReference.cache
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Form1.resources
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.FormRecords.resources
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Properties.Resources.resources
+F:\University\Second Year\Computer & Network Technology Project 2\Temperature Chart\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.csproj.GenerateResource.Cache
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.exe
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.pdb
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.exe
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\bin\Debug\Temperature Chart.pdb
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Form1.resources
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.FormRecords.resources
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature_Chart.Properties.Resources.resources
+C:\Users\Jamie\Desktop\Developed Software\Year2Biometric System\Temperature_Chart_Display\Temperature Chart\obj\x86\Debug\Temperature Chart.csproj.GenerateResource.Cache
